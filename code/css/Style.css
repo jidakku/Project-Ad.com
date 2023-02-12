@@ -1,12 +1,12 @@
 .navbar {
     display: flex;
-    color: white;
-    background-color: black;
-    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 0px;
 }
 
 body {
-    background-color: rgb(142, 11, 142);
+    background-color: rgb(189, 188, 187);
     margin: 0;
     padding: 0;
 }
@@ -84,10 +84,10 @@ body {
     display: flex;
     margin: 0 0.2rem;
 }
-.next input[type=submit] {
+.next button {
     width: 40%;
-    background-color: #2030e2;
-    border: 2px solid #2030e2;
+    background-color: rgb(40, 70, 220);
+    border: 2px solid rgb(40, 70, 220);
     border-radius: 12px;
     padding: 5px;
     color: white;
@@ -141,8 +141,8 @@ body {
 
 .submit input[type=submit] {
     width: 20%;
-    background-color: #2030e2;
-    border: 2px solid #2030e2;
+    background-color:rgb(40, 70, 220);
+    border: 2px solid rgb(40, 70, 220);
     border-radius: 12px;
     padding: 5px;
     color: white;
